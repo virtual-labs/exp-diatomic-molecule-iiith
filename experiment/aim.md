@@ -1,5 +1,3 @@
-
-
 The internuclear potential for a diatomic molecule is illustrated by a solid line in the following figure. The curve rises steeply to the left of the minimum, indicating the difficulty in pushing the two nuclei closer together. The curve to the right side of the equilibrium position rises initially but eventually levels off. The potential energy at large seperations is essentially the bond energy. The dashed line shows the potential
 
 U(x) = 0.5 K ( x - x0 )2
