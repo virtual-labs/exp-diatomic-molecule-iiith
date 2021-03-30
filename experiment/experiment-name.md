@@ -1,1 +1,1 @@
-## Experiment name
+## Internuclear forces in a diatomic molecule
