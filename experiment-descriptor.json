@@ -33,13 +33,6 @@
       "label": "Simulation",
       "unit-type": "task",
       "content-type": "simulation"
-    },
-    {
-      "target": "references.html",
-      "source": "references.md",
-      "label": "References",
-      "unit-type": "task",
-      "content-type": "text"
     }
   ]
 }
