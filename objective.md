@@ -1,0 +1,1 @@
+- To determine the nature of internuclear forces between the nuclei of a diatomic molecule using optical and magnetic tweezer experiments.
